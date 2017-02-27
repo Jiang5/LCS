@@ -1,4 +1,3 @@
-//compile with 	"g++ -g -o a LCS_Jiang_Wu_jiangwu.cpp"
 #include <iostream>
 #include <fstream>
 #include <string>
